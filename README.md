@@ -4,7 +4,7 @@ Senior ML/AI Engineer with **7+ years** building production-grade GenAI, LLM, an
 Currently leading agentic LLM pipelines, RAG systems, and Responsible AI standards as an SME.
 
 ```text
-🔭  Building production agentic LLM systems at Algoworks
+🔭  Currently building production agentic LLM systems
 🧠  GenAI · LLMOps · RAG · Agentic AI · Responsible AI
 ☁️   AWS SageMaker · Azure Databricks · MLflow
 🛠   LangChain · LangGraph · PyTorch · HuggingFace · LightGBM
