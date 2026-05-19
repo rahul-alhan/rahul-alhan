@@ -43,6 +43,7 @@ Currently leading agentic LLM pipelines, RAG systems, and Responsible AI standar
 | 🔍 [**anomaly-detection-industrial**](https://github.com/rahul-alhan/anomaly-detection-industrial) | scikit-learn · Streamlit | Isolation Forest + rule-based hybrid for industrial sensor data |
 | 🔠 [**nlp-to-llm-extraction-pipeline**](https://github.com/rahul-alhan/nlp-to-llm-extraction-pipeline) | SpaCy · GPT-3.5 · GPT-4 · LangChain · Pydantic | Phased evolution: rule-based → LLM-with-schema-enforcement; head-to-head eval |
 | 🎯 [**recommendation-engine-twotower**](https://github.com/rahul-alhan/recommendation-engine-twotower) | PyTorch · ALS · scikit-learn | Two-Tower embedding recommender with cold-start fallbacks and diversity re-ranker |
+| 📉 [**churn-prediction-xgboost**](https://github.com/rahul-alhan/churn-prediction-xgboost) | XGBoost · SHAP · MLflow | Production churn model with PSI drift detection and EventBridge retraining triggers |
 
 ---
 
