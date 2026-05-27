@@ -46,6 +46,7 @@ Currently leading agentic LLM pipelines, RAG systems, and Responsible AI standar
 | 📉 [**churn-prediction-xgboost**](https://github.com/rahul-alhan/churn-prediction-xgboost) | XGBoost · SHAP · MLflow | Production churn model with PSI drift detection and EventBridge retraining triggers |
 | 🧬 [**customer-segmentation-rfm**](https://github.com/rahul-alhan/customer-segmentation-rfm) | scikit-learn · NLTK · Streamlit | RFM + K-means segmentation augmented with NLTK feedback signals |
 | 🔌 [**mcp-server-toolkit**](https://github.com/rahul-alhan/mcp-server-toolkit) | MCP · FastMCP · LangChain · Chroma · Starlette | Model Context Protocol server exposing RAG as tools + resources + prompts; stdio and HTTP/SSE with bearer auth |
+| 🧠 [**llm-finetuning-moderation**](https://github.com/rahul-alhan/llm-finetuning-moderation) | Unsloth · QLoRA · PEFT · Llama 3 · GGUF | QLoRA fine-tune for moderation classifier with base-vs-FT eval and Ollama-ready GGUF export |
 
 ---
 
