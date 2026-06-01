@@ -49,6 +49,7 @@ Currently leading agentic LLM pipelines, RAG systems, and Responsible AI standar
 | 🧠 [**llm-finetuning-moderation**](https://github.com/rahul-alhan/llm-finetuning-moderation) | Unsloth · QLoRA · PEFT · Llama 3 · GGUF | QLoRA fine-tune for moderation classifier with base-vs-FT eval and Ollama-ready GGUF export |
 | 📈 [**llm-observability-stack**](https://github.com/rahul-alhan/llm-observability-stack) | Langfuse · Prometheus · LangGraph · Streamlit | Production observability for agentic pipelines — traced tool calls, SLO burn rate, prompt-version A/B |
 | 🎙️ [**voice-agent-realtime**](https://github.com/rahul-alhan/voice-agent-realtime) | OpenAI Realtime API · WebSocket · FastAPI · Chroma | Real-time voice agent with server-side VAD, function-calling into local RAG, browser + CLI demos with barge-in |
+| ⚡ [**local-llm-serving-bench**](https://github.com/rahul-alhan/local-llm-serving-bench) | vLLM · Ollama · llama.cpp · httpx | Apples-to-apples throughput/latency benchmark across local LLM serving stacks with cost-per-1M-tokens analysis |
 
 ---
 
