@@ -50,6 +50,7 @@ Currently leading agentic LLM pipelines, RAG systems, and Responsible AI standar
 | 📈 [**llm-observability-stack**](https://github.com/rahul-alhan/llm-observability-stack) | Langfuse · Prometheus · LangGraph · Streamlit | Production observability for agentic pipelines — traced tool calls, SLO burn rate, prompt-version A/B |
 | 🎙️ [**voice-agent-realtime**](https://github.com/rahul-alhan/voice-agent-realtime) | OpenAI Realtime API · WebSocket · FastAPI · Chroma | Real-time voice agent with server-side VAD, function-calling into local RAG, browser + CLI demos with barge-in |
 | ⚡ [**local-llm-serving-bench**](https://github.com/rahul-alhan/local-llm-serving-bench) | vLLM · Ollama · llama.cpp · httpx | Apples-to-apples throughput/latency benchmark across local LLM serving stacks with cost-per-1M-tokens analysis |
+| 🏢 [**company-brain-rag**](https://github.com/rahul-alhan/company-brain-rag) | FAISS · BM25 · RRF · LangChain · OpenAI | Enterprise multi-source RAG with hybrid retrieval, principal-based ACL filtering, and time-decay recency reranking |
 
 ---
 
