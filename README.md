@@ -51,6 +51,9 @@ Currently leading agentic LLM pipelines, RAG systems, and Responsible AI standar
 | 🎙️ [**voice-agent-realtime**](https://github.com/rahul-alhan/voice-agent-realtime) | OpenAI Realtime API · WebSocket · FastAPI · Chroma | Real-time voice agent with server-side VAD, function-calling into local RAG, browser + CLI demos with barge-in |
 | ⚡ [**local-llm-serving-bench**](https://github.com/rahul-alhan/local-llm-serving-bench) | vLLM · Ollama · llama.cpp · httpx | Apples-to-apples throughput/latency benchmark across local LLM serving stacks with cost-per-1M-tokens analysis |
 | 🏢 [**company-brain-rag**](https://github.com/rahul-alhan/company-brain-rag) | FAISS · BM25 · RRF · LangChain · OpenAI | Enterprise multi-source RAG with hybrid retrieval, principal-based ACL filtering, and time-decay recency reranking |
+| 👥 [**multi-agent-supervisor**](https://github.com/rahul-alhan/multi-agent-supervisor) | LangChain · Pydantic · asyncio | Supervisor/worker pattern with per-worker timeouts, state isolation, retry policy, and typed escalation reasons |
+| 🧪 [**causal-agent-tracer**](https://github.com/rahul-alhan/causal-agent-tracer) | NumPy · SciPy · pandas | Causal failure attribution for agent traces + Cladder-style reasoning bench + A/B harness (power analysis, CUPED, propensity matching, DiD) |
+| 💸 [**slm-router-agent**](https://github.com/rahul-alhan/slm-router-agent) | OpenAI · Anthropic · Phi-3.5 · Llama-3.2 | Heterogeneous SLM/LLM routing per NVIDIA's June 2026 paper — complexity classifier + per-task cost tracker proving real $ savings |
 
 ---
 
